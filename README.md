@@ -1,4 +1,4 @@
-<h1align="center">
+<h1 align="center">
   <br>
   ![PokeWorld](./commands/stuff/imgs/1iIveTh.jpg)
   <br>
@@ -6,9 +6,9 @@
   <br>
 </h1>
 
-<h4align="center">Moderation, and fun.</h4>
+<h4 align="center">Moderation, and fun.</h4>
 
-<palign="center">
+<p align="center">
   <a href="https://discord.gg/PqPuNqwUsV">
     <img src="https://discordapp.com/api/guilds/893248095285047386/widget.png?style=shield" alt="Discord Server">
   </a>
@@ -18,11 +18,11 @@
     <img src="https://img.shields.io/badge/Support-Red!-red.svg" alt="Support Poke on Patreon!">
   </a>
 </p>
-<palign="center">
+<p align="center">
 
 </p>
 
-<palign="center">
+<p align="center">
   <a href="#overview">Overview</a>
   •
   <a href="#installation">Installation</a>
