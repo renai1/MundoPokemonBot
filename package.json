@@ -1,7 +1,7 @@
 {
-  "name": "MundoPokemonBot",
+  "name": "PokeWorld",
   "version": "1.0.0",
-  "description": "<h1 align=\"center\">   <br>   <a href=\"_blank\"><img src=\"https://imgur.com/1iIveTh\" alt=\"MundoPokemon - Discord Bot\"></a>   <br>   MundoPokemon Discord   <br> </h1>",
+  "description": "<h1 align=\"center\">   <br>   <a href=\"_blank\"><img src=\"https://imgur.com/1iIveTh\" alt=\"PokeWorld - Discord Bot\"></a>   <br>   PokeWorld Discord   <br> </h1>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
