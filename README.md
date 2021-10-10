@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  ![1iIveTh](https://user-images.githubusercontent.com/80545089/136685236-6b326eb1-2d47-4805-be4e-c4c741ec8345.png)
+  ![PokeWorld](https://user-images.githubusercontent.com/80545089/136685236-6b326eb1-2d47-4805-be4e-c4c741ec8345.png)
   <br>
   MundoPokemon Discord
   <br>
