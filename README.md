@@ -1,6 +1,6 @@
 <h1align="center">
   <br>
-  
+  ![PokeWorld](./commands/stuff/imgs/1iIveTh.jpg)
   <br>
   PokeWorld Discord
   <br>
