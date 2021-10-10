@@ -1,14 +1,14 @@
-<h1 align="center">
+<h1align="center">
   <br>
-  <a href="_blank"><img src="https://imgur.com/1iIveTh" alt="MundoPokemon - Discord Bot"></a>
+  
   <br>
-  MundoPokemon Discord
+  PokeWorld Discord
   <br>
 </h1>
 
-<h4 align="center">Moderation, and fun.</h4>
+<h4align="center">Moderation, and fun.</h4>
 
-<p align="center">
+<palign="center">
   <a href="https://discord.gg/PqPuNqwUsV">
     <img src="https://discordapp.com/api/guilds/893248095285047386/widget.png?style=shield" alt="Discord Server">
   </a>
@@ -18,11 +18,11 @@
     <img src="https://img.shields.io/badge/Support-Red!-red.svg" alt="Support Poke on Patreon!">
   </a>
 </p>
-<p align="center">
+<palign="center">
 
 </p>
 
-<p align="center">
+<palign="center">
   <a href="#overview">Overview</a>
   •
   <a href="#installation">Installation</a>

@@ -16,13 +16,8 @@ const fs = require("fs"); //Make sure you add the package.
 
 client.on("ready", () => {
   client.setMaxListeners(0)
-<<<<<<< HEAD
-  client.user.setUsername("MundoPokemon")
+  client.user.setUsername("PokeWorld")
   client.user.setPresence({ activity: { name: ",help" }, status: "online" })
-=======
-  client.user.setUsername("MundoPokemonBot")
-  client.user.setPresence({ activity: { name: ",help"}, status: "online" })
->>>>>>> origin/master
 });
 
 client.commands = new Discord.Collection(); //This is very important so do not forget it!
