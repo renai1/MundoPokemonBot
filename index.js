@@ -16,7 +16,7 @@ const fs = require("fs"); //Make sure you add the package.
 
 client.on("ready", () => {
   client.setMaxListeners(0)
-  client.user.setUsername("MundoPokemon")
+  client.user.setUsername("MundoPokemonBot")
   client.user.setPresence({ activity: { name: ",help"}, status: "online" })
 });
 
